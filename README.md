@@ -12,7 +12,7 @@ Atuo como analista de sistemas/ requisitos, desempenhando minhas atividades como
 
 Entre minhas habilidades estão: Levantamento (e análise) de requisitos junto ao cliente, negociação, elaboração de propostas, construção de cronogramas, reporte das atividades através de relatórios executivos, acompanhamento de projetos/release(s) durante todo ciclo de desenvolvimento, modelagem/ construção de modelo de dados, especificação/ documentação padronizada, homologação de demandas junto ao cliente/ usuário e implantação.</div>
 
-<div align="right"><br />
+<div align="center"><br />
   <a href="mailto:cristianosps@gmail.com">
     <img src="envelope.png" width="25px" height="20px"/>
   </a> 
