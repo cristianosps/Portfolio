@@ -6,7 +6,7 @@ Sou <strong>Bacharel em Ciência da Computação - Universidade Católica de Per
 <div align="justify"><br />
 Este perfil é destinado ao meu portfólio de projetos na área de <STRONG>Data Science</STRONG>.<br /><br />
 
-Atualmente sou aluno da <STRONG>Especialização em Análise e Engenharia de Dados</STRONG>, promovida pela <STRONG>CESAR Scholl</STRONG> em Recife-PE, iniciada em Novembro/2019. Tenho grande interesse de atuar em projetos de Data Science por toda inteligência e relevância que envolvem as demandas neste campo de atuação para TI e negócios<br /><br />
+Atualmente sou aluno da <STRONG>Especialização em Análise e Engenharia de Dados</STRONG>, promovida pela <STRONG>CESAR School</STRONG> em Recife-PE, iniciada em Novembro/2019. Tenho grande interesse de atuar em projetos de Data Science por toda inteligência e relevância que envolvem as demandas neste campo de atuação para TI/negócios.<br /><br />
 
 Atuo como analista de sistemas/ requisitos, desempenhando minhas atividades como elo entre o cliente/ usuário e equipe de desenvolvimento. Neste contexto desempenho formalmente atividades que exigem conhecimento em gerenciamento de projetos, análise de negócio, auditoria de sistemas, negociação e relacionamento com o cliente.<br />
 
