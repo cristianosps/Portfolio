@@ -13,7 +13,7 @@ Atuo como analista de sistemas/ requisitos, desempenhando minhas atividades como
 Entre minhas habilidades estão: Levantamento (e análise) de requisitos junto ao cliente, negociação, elaboração de propostas, construção de cronogramas, reporte das atividades através de relatórios executivos, acompanhamento de projetos/release(s) durante todo ciclo de desenvolvimento, modelagem/ construção de modelo de dados, especificação/ documentação padronizada, homologação de demandas junto ao cliente/ usuário e implantação.</div><br />
 
   <a href="mailto:cristianosps@gmail.com">
-    <img src="envelope.png" width="25px" height="27px"/>
+    <img src="envelope.png" width="26px" height="29px"/>
   </a> 
   <a href="https://br.linkedin.com/in/cristiano-siqueira-p-de-santana-1678b724">
     <img src="logo_linkedin.png" width="25px" height="22px"/>
