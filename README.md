@@ -13,9 +13,11 @@ Atualmente sou aluno da <strong>Especialização em Análise e Engenharia de Dad
 Hoje atuo profissionalmente como <strong>analista de sistemas/ requisitos</strong>, sendo minhas atividades o elo entre o cliente/ usuário e equipe de desenvolvimento. Neste contexto desempenho formalmente atividades que exigem conhecimento em gerenciamento de projetos, análise de negócio, auditoria de sistemas, negociação e relacionamento com o cliente.<br />
 
 <strong>Entre minhas habilidades estão:</strong> Levantamento (e análise) de requisitos junto ao cliente, negociação, elaboração de propostas, construção de cronogramas, reporte das atividades através de relatórios executivos, acompanhamento de projetos/release(s) durante todo ciclo de desenvolvimento, modelagem/ construção de modelo de dados, especificação/ documentação padronizada, homologação de demandas junto ao cliente/ usuário e implantação.
-</div>
 
-<a href="https://github.com/cristianosps/My_DataScience_Portfolio/tree/master/Analisando%20os%20Dados%20do%20Airbnb%20-%20Amsterdam%20-%20The%20Netherlands">Analisando os Dados do Airbnb - Amsterdam - The Netherlands</a>
+Relação de projetos:
+* <a href="https://github.com/cristianosps/My_DataScience_Portfolio/tree/master/Analisando%20os%20Dados%20do%20Airbnb%20-%20Amsterdam%20-%20The%20Netherlands">Analisando os Dados do Airbnb - Amsterdam - The Netherlands</a>
+
+</div>
 
 <div>Obrigado por visitar este repositório de projetos.</div>
 
