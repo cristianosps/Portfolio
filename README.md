@@ -6,7 +6,7 @@ Sou <strong>Bacharel em Ciência da Computação - Universidade Católica de Per
 [MBA em Gerenciamento de Projetos - Fundação Getúlio Vargas (2011)]
 
 <div align="justify">
-Este repositório é destinado ao meu portfólio de projetos/ prática pessoal na área de <strong>Data Science.</strong><br /><br />
+Este repositório é destinado ao meu portfólio de projetos na área de <strong>Data Science.</strong><br /><br />
 
 Atualmente sou aluno da <strong>Especialização em Análise e Engenharia de Dados</strong>, promovida pela <strong>CESAR School</strong> em Recife-PE, iniciada em Novembro/2019. Tenho grande interesse de atuar em projetos de Data Science por toda inteligência e relevância que envolvem as demandas para várias áreas de negócio.<br />
 
