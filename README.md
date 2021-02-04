@@ -19,6 +19,7 @@ Relação de projetos:
 
 </div>
 
+<br><br>
 <div>Obrigado por visitar este repositório de projetos.</div>
 
 <div align="right"><br />
