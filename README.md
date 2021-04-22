@@ -14,9 +14,10 @@ Hoje atuo profissionalmente como <strong>analista de sistemas/ requisitos</stron
 
 <strong>Entre minhas habilidades estão:</strong> Levantamento (e análise) de requisitos junto ao cliente, negociação, elaboração de propostas, construção de cronogramas, reporte das atividades através de relatórios executivos, acompanhamento de projetos/release(s) durante todo ciclo de desenvolvimento, modelagem/ construção de modelo de dados, especificação/ documentação padronizada, homologação de demandas junto ao cliente/ usuário e implantação.
 
+<!--
 Relação de projetos:
 * <a href="https://github.com/cristianosps/My_DataScience_Portfolio/tree/master/Analisando%20os%20Dados%20do%20Airbnb%20-%20Amsterdam%20-%20The%20Netherlands">Analisando os Dados do Airbnb - Amsterdam - The Netherlands</a>
-
+-->
 </div>
 
 <br>
