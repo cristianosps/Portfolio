@@ -22,11 +22,3 @@ Relação de projetos:
 
 <br>
 <div>Obrigado por visitar este repositório de projetos.</div>
-
-<div align="right"><br />
-  <a href="mailto:cristianosps@gmail.com">
-    <img src="envelope.png" width="25px" height="20px"/>
-  </a> 
-  <a href="https://br.linkedin.com/in/cristiano-siqueira-p-de-santana-1678b724">
-    <img src="logo_linkedin.png" width="25px" height="22px"/>
-  </a>
