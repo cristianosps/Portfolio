@@ -3,7 +3,7 @@
 
 <br/><br/>
 <strong>Especialização em Análise e Engenharia de Dados - C.E.S.A.R School (2021)</strong><br/> 
-MBA em Gerenciamento de Projetos - Fundação Getúlio Vargas (2011)
+MBA em Gerenciamento de Projetos - Fundação Getúlio Vargas (2011)<br/>
 Bacharel em Ciência da Computação - Universidade Católica de Pernambuco (2004)<br/>
 <!-- [MBA em Gerenciamento de Projetos - Fundação Getúlio Vargas (2011)]-->
 <br/>
