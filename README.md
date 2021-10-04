@@ -16,11 +16,11 @@ Hoje minha atuação profissional é como <strong>analista de sistemas - requisi
 
 <strong>Entre minhas habilidades estão:</strong> Levantamento (e análise) de requisitos junto ao cliente, negociação, elaboração de propostas, construção de cronogramas, reporte das atividades através de relatórios executivos, acompanhamento de projetos/release(s) durante todo ciclo de desenvolvimento, modelagem/ construção de modelo de dados, especificação/ documentação padronizada, homologação de demandas junto ao cliente/ usuário e implantação.
 
-<!--
+<br/><br/>
 Relação de projetos:
-* <a href="https://github.com/cristianosps/My_DataScience_Portfolio/tree/master/Analisando%20os%20Dados%20do%20Airbnb%20-%20Amsterdam%20-%20The%20Netherlands">Analisando os Dados do Airbnb - Amsterdam - The Netherlands</a>
+* <a href="https://github.com/cristianosps/Analisando_os_Dados_do_Airbnb-Amsterdam-The_Netherlands">Analisando os Dados do Airbnb - Amsterdam - The Netherlands</a>
 
-</div>-->
+</div>
 
 <br>
 <div>Obrigado por visitar este repositório de projetos.</div>
